@@ -1,5 +1,7 @@
 # Portfolio de Laura WANG
 
+Author:Laura WANG
+
 ## Pour obtenir le résultat finale :
 [Laura Wang](https://easterbuunny.github.io/)
  
