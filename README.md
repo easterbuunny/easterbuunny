@@ -9,4 +9,4 @@ Author:Laura WANG
 - 
 
 ## Template : 
-[HTML5Up](https://html5up.net/)
+[Super Folio](https://templateflip.com/templates/super-folio/)
